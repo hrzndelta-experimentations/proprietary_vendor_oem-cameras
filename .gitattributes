@@ -1,0 +1,2 @@
+GoogleCameraBlueline/GoogleCamera.apk filter=lfs diff=lfs merge=lfs -text
+GoogleCameraSunfish/GoogleCamera.apk filter=lfs diff=lfs merge=lfs -text
