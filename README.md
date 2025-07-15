@@ -7,9 +7,9 @@ PRODUCT_PACKAGES += \
     cameraapp
 ```
 Replace:
-    - manufacturer: your device manufacturer, eg. Google
-    - codename: your device codename, eg. blueline
-    - cameraapp: your device stock camera, eg. GoogleCameraBlueline
+- manufacturer: your device manufacturer, eg. Google
+- codename: your device codename, eg. blueline
+- cameraapp: your device stock camera, eg. GoogleCameraBlueline
     
 > [!IMPORTANT]
 > for GoogleCamera
